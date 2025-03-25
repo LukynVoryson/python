@@ -9,3 +9,5 @@
 # poznamky
 # NADPIS 1
 # NADPIS 2
+# kod
+print("ahoj")
